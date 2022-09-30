@@ -11,6 +11,8 @@ tags:
 
 You are invited to a birthday party for a very special duck, Penguin. Here's a picture of Penguin:
 
+<img src="/assets/images/penguin.jpg" alt="drawing" title="penguin"/>
+
 ### Details
 
 This birthday party will take place on **November 20th, 2022 from 12:00pm BST - 4:00pm BST** at People's Park Tavern (in Hackney, London) in the Greenhouse.
