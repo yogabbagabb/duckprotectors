@@ -1,5 +1,5 @@
 ---
-title: "Duck Birthday Party"
+title: "Halloween Jam"
 date: 2020-09-29T15:34:30-04:00
 categories:
   - superDuper
@@ -9,18 +9,19 @@ tags:
 
 ## Introduction!
 
-You are invited to a birthday party for a very special duck, Penguin. Here's a picture of Penguin:
+Penguin the Duck and I are organizing a Halloween Jam. This is Penguin:
 
 <img src="/assets/images/penguin.jpg" alt="drawing" title="penguin"/>
-
 ### Details
 
-This birthday party will take place on **November 20th, 2022 from 12:00pm BST - 4:00pm BST** at People's Park Tavern (in Hackney, London) in the Greenhouse.
+The jam will take place on **December 9th, 2023 from 12:00pm BST - 5:00pm BST** at Antwerp Arms, at 168-170 Church Rd, London N17 8AS.
+
+Antwerp Arms is one of the 2 community cooperatives (N.B. this is not a worker-coop) that I identified in London. It has over 430 shareholders. Each shareholder is entitled to no more than one vote, irrespective of how many shares she has. Over the past 20 years, many community-coop pubs in London have come undone. Through this event, Penguin and I hope to connect various humans and support democratic economic planning.
 
 ## Requests
-- Please RSVP by November 3rd, 2022 5:55 pm BST.
-- You can bring any humans you want (e.g friend, parent, partner, relative, duck etc). Just let me know your headcount! I think the pub also allows dogs, but please check with them first.
-- I will be travelling from far away that day, which makes it difficult for me to fully arrange for your eating and drinking. Please eat a lunch or brunch before you come. That said, I will give each of you £10 to purchase anything you like at the pub. I will also bring some fruits and what the British call "crisps" (y'all Brits are so cute).
-- Penguin practices तपस्या (*tapasya*), which is best described as "ascetic like fervor." (y'all Brits use "fervour", I know, cuties).
-  - Penguin will, thus, not be accepting any gifts.
-  - Penguin also dresses rather simply. You are, thus, encouraged to spare yourself the headache of dressing up in those silly outfits that humans wear. It may be cold in the pub's greenhouse, so warm clothing is encouraged.
+- Please RSVP by December 2rd, 2023 5:55 pm BST.
+- You can bring any non-humans (some of my relatives have a phobia for cats, so please don't bring cats) and humans. If you have flatmates who would otherwise do nothing that day, I would recommend you bring them. Also, if you see any homeless people, you can offer to them to come.
+- I will pay for all your food and drink. If you want to support this get-together in anyway, then please consider making a contribution to any migrant justice organization. I know a few, and some members from such organizations are likely to attend.
+- Penguin likes [this song](https://www.youtube.com/watch?v=GR0LGCIYMPs)
+- This is Penguin's friend. Please don't make fun of him.
+  <img src="/assets/images/duck-haunted.jpg" alt="drawing" title="penguin"/>
