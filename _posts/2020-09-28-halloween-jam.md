@@ -20,7 +20,7 @@ Antwerp Arms is one of the 2 community cooperatives (N.B. this is not a worker-c
 
 ## Requests
 - Please RSVP by December 2rd, 2023 5:55 pm BST.
-- You can bring any non-humans (some of my relatives have a phobia for cats, so please don't bring cats) and humans. If you have flatmates who would otherwise do nothing that day, I would recommend you bring them. Also, if you see any homeless people, you can offer to them to come.
+- You can bring any non-humans if the pub allows it (please check with the pub; some of my relatives have cat phobia, so please don't bring cats). You can bring all humans. If you have flatmates who would otherwise do nothing that day, I would recommend you bring them. Also, if you see any homeless people, you can offer to them to come.
 - I will pay for all your food and drink. If you want to support this get-together in anyway, then please consider making a contribution to any migrant justice organization. I know a few, and some members from such organizations are likely to attend.
 - Penguin likes [this song](https://www.youtube.com/watch?v=GR0LGCIYMPs)
 - This is Penguin's friend. Please don't make fun of him.
