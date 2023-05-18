@@ -24,4 +24,4 @@ Antwerp Arms is one of the 2 community cooperatives (N.B. this is not a worker-c
 - I will pay for all your food and drink. If you want to support this get-together in anyway, then please consider making a contribution to any migrant justice organization. I know a few, and some members from such organizations are likely to attend.
 - Penguin likes [this song](https://www.youtube.com/watch?v=GR0LGCIYMPs)
 - This is Penguin's friend. Please don't make fun of him.
-  <img src="/assets/images/duck-haunted.jpg" alt="drawing" title="penguin"/>
+<img src="/assets/images/duck-haunted.jpg" alt="drawing" title="penguin"/>
